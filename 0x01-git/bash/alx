@@ -1,8 +1,7 @@
 #!/bin/bash
-echo "ALX"
-^C
+echo "ALX School"
 
-^c
+
 
 
 
@@ -10,4 +9,4 @@ echo "ALX"
 root@6d27b45bd0d6:/alx-pre_course/0x01-git# cd bash
 root@6d27b45bd0d6:/alx-pre_course/0x01-git/js# cd ..
 #!/bin/bash
-echo "ALX" 
+echo  "ALX School" 
